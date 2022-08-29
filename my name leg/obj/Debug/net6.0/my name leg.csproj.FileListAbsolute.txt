@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\programering\my name leg\bin\Debug\net6.0\my name leg.exe
+C:\Users\Admin\Documents\programering\my name leg\bin\Debug\net6.0\my name leg.deps.json
+C:\Users\Admin\Documents\programering\my name leg\bin\Debug\net6.0\my name leg.runtimeconfig.json
+C:\Users\Admin\Documents\programering\my name leg\bin\Debug\net6.0\my name leg.dll
+C:\Users\Admin\Documents\programering\my name leg\bin\Debug\net6.0\my name leg.pdb
+C:\Users\Admin\Documents\programering\my name leg\obj\Debug\net6.0\my name leg.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\programering\my name leg\obj\Debug\net6.0\my name leg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\programering\my name leg\obj\Debug\net6.0\my name leg.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\programering\my name leg\obj\Debug\net6.0\my name leg.AssemblyInfo.cs
+C:\Users\Admin\Documents\programering\my name leg\obj\Debug\net6.0\my name leg.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\programering\my name leg\obj\Debug\net6.0\my name leg.dll
+C:\Users\Admin\Documents\programering\my name leg\obj\Debug\net6.0\refint\my name leg.dll
+C:\Users\Admin\Documents\programering\my name leg\obj\Debug\net6.0\my name leg.pdb
+C:\Users\Admin\Documents\programering\my name leg\obj\Debug\net6.0\my name leg.genruntimeconfig.cache
+C:\Users\Admin\Documents\programering\my name leg\obj\Debug\net6.0\ref\my name leg.dll

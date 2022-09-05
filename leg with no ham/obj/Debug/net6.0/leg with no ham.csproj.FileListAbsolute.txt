@@ -1,0 +1,15 @@
+C:\Users\sika05001\Desktop\leg with no ham\bin\Debug\net6.0\leg with no ham.exe
+C:\Users\sika05001\Desktop\leg with no ham\bin\Debug\net6.0\leg with no ham.deps.json
+C:\Users\sika05001\Desktop\leg with no ham\bin\Debug\net6.0\leg with no ham.runtimeconfig.json
+C:\Users\sika05001\Desktop\leg with no ham\bin\Debug\net6.0\leg with no ham.dll
+C:\Users\sika05001\Desktop\leg with no ham\bin\Debug\net6.0\leg with no ham.pdb
+C:\Users\sika05001\Desktop\leg with no ham\obj\Debug\net6.0\leg with no ham.csproj.AssemblyReference.cache
+C:\Users\sika05001\Desktop\leg with no ham\obj\Debug\net6.0\leg with no ham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sika05001\Desktop\leg with no ham\obj\Debug\net6.0\leg with no ham.AssemblyInfoInputs.cache
+C:\Users\sika05001\Desktop\leg with no ham\obj\Debug\net6.0\leg with no ham.AssemblyInfo.cs
+C:\Users\sika05001\Desktop\leg with no ham\obj\Debug\net6.0\leg with no ham.csproj.CoreCompileInputs.cache
+C:\Users\sika05001\Desktop\leg with no ham\obj\Debug\net6.0\leg with no ham.dll
+C:\Users\sika05001\Desktop\leg with no ham\obj\Debug\net6.0\refint\leg with no ham.dll
+C:\Users\sika05001\Desktop\leg with no ham\obj\Debug\net6.0\leg with no ham.pdb
+C:\Users\sika05001\Desktop\leg with no ham\obj\Debug\net6.0\leg with no ham.genruntimeconfig.cache
+C:\Users\sika05001\Desktop\leg with no ham\obj\Debug\net6.0\ref\leg with no ham.dll

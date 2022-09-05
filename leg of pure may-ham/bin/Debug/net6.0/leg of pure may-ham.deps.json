@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "leg of pure may-ham/1.0.0": {
+        "runtime": {
+          "leg of pure may-ham.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "leg of pure may-ham/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

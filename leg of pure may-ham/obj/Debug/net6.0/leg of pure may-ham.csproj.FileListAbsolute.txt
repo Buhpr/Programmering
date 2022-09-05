@@ -1,0 +1,15 @@
+C:\Users\sika05001\Desktop\leg of pure may-ham\bin\Debug\net6.0\leg of pure may-ham.exe
+C:\Users\sika05001\Desktop\leg of pure may-ham\bin\Debug\net6.0\leg of pure may-ham.deps.json
+C:\Users\sika05001\Desktop\leg of pure may-ham\bin\Debug\net6.0\leg of pure may-ham.runtimeconfig.json
+C:\Users\sika05001\Desktop\leg of pure may-ham\bin\Debug\net6.0\leg of pure may-ham.dll
+C:\Users\sika05001\Desktop\leg of pure may-ham\bin\Debug\net6.0\leg of pure may-ham.pdb
+C:\Users\sika05001\Desktop\leg of pure may-ham\obj\Debug\net6.0\leg of pure may-ham.csproj.AssemblyReference.cache
+C:\Users\sika05001\Desktop\leg of pure may-ham\obj\Debug\net6.0\leg of pure may-ham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sika05001\Desktop\leg of pure may-ham\obj\Debug\net6.0\leg of pure may-ham.AssemblyInfoInputs.cache
+C:\Users\sika05001\Desktop\leg of pure may-ham\obj\Debug\net6.0\leg of pure may-ham.AssemblyInfo.cs
+C:\Users\sika05001\Desktop\leg of pure may-ham\obj\Debug\net6.0\leg of pure may-ham.csproj.CoreCompileInputs.cache
+C:\Users\sika05001\Desktop\leg of pure may-ham\obj\Debug\net6.0\leg of pure may-ham.dll
+C:\Users\sika05001\Desktop\leg of pure may-ham\obj\Debug\net6.0\refint\leg of pure may-ham.dll
+C:\Users\sika05001\Desktop\leg of pure may-ham\obj\Debug\net6.0\leg of pure may-ham.pdb
+C:\Users\sika05001\Desktop\leg of pure may-ham\obj\Debug\net6.0\leg of pure may-ham.genruntimeconfig.cache
+C:\Users\sika05001\Desktop\leg of pure may-ham\obj\Debug\net6.0\ref\leg of pure may-ham.dll

@@ -1,0 +1,15 @@
+C:\Users\sika05001\Desktop\ham\obj\Debug\net6.0\ham.csproj.AssemblyReference.cache
+C:\Users\sika05001\Desktop\ham\obj\Debug\net6.0\ham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sika05001\Desktop\ham\obj\Debug\net6.0\ham.AssemblyInfoInputs.cache
+C:\Users\sika05001\Desktop\ham\obj\Debug\net6.0\ham.AssemblyInfo.cs
+C:\Users\sika05001\Desktop\ham\obj\Debug\net6.0\ham.csproj.CoreCompileInputs.cache
+C:\Users\sika05001\Desktop\ham\bin\Debug\net6.0\ham.exe
+C:\Users\sika05001\Desktop\ham\bin\Debug\net6.0\ham.deps.json
+C:\Users\sika05001\Desktop\ham\bin\Debug\net6.0\ham.runtimeconfig.json
+C:\Users\sika05001\Desktop\ham\bin\Debug\net6.0\ham.dll
+C:\Users\sika05001\Desktop\ham\bin\Debug\net6.0\ham.pdb
+C:\Users\sika05001\Desktop\ham\obj\Debug\net6.0\ham.dll
+C:\Users\sika05001\Desktop\ham\obj\Debug\net6.0\refint\ham.dll
+C:\Users\sika05001\Desktop\ham\obj\Debug\net6.0\ham.pdb
+C:\Users\sika05001\Desktop\ham\obj\Debug\net6.0\ham.genruntimeconfig.cache
+C:\Users\sika05001\Desktop\ham\obj\Debug\net6.0\ref\ham.dll

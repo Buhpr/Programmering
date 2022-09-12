@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\Programmering\there will be ham\bin\Debug\net6.0\there will be ham.exe
+C:\Users\Admin\Documents\GitHub\Programmering\there will be ham\bin\Debug\net6.0\there will be ham.deps.json
+C:\Users\Admin\Documents\GitHub\Programmering\there will be ham\bin\Debug\net6.0\there will be ham.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Programmering\there will be ham\bin\Debug\net6.0\there will be ham.dll
+C:\Users\Admin\Documents\GitHub\Programmering\there will be ham\bin\Debug\net6.0\there will be ham.pdb
+C:\Users\Admin\Documents\GitHub\Programmering\there will be ham\obj\Debug\net6.0\there will be ham.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Programmering\there will be ham\obj\Debug\net6.0\there will be ham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Programmering\there will be ham\obj\Debug\net6.0\there will be ham.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Programmering\there will be ham\obj\Debug\net6.0\there will be ham.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Programmering\there will be ham\obj\Debug\net6.0\there will be ham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Programmering\there will be ham\obj\Debug\net6.0\there will be ham.dll
+C:\Users\Admin\Documents\GitHub\Programmering\there will be ham\obj\Debug\net6.0\refint\there will be ham.dll
+C:\Users\Admin\Documents\GitHub\Programmering\there will be ham\obj\Debug\net6.0\there will be ham.pdb
+C:\Users\Admin\Documents\GitHub\Programmering\there will be ham\obj\Debug\net6.0\there will be ham.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Programmering\there will be ham\obj\Debug\net6.0\ref\there will be ham.dll

@@ -1,0 +1,15 @@
+C:\Fungaea\Pseudokod fast riktig\bin\Debug\net6.0\Pseudokod fast riktig.exe
+C:\Fungaea\Pseudokod fast riktig\bin\Debug\net6.0\Pseudokod fast riktig.deps.json
+C:\Fungaea\Pseudokod fast riktig\bin\Debug\net6.0\Pseudokod fast riktig.runtimeconfig.json
+C:\Fungaea\Pseudokod fast riktig\bin\Debug\net6.0\Pseudokod fast riktig.dll
+C:\Fungaea\Pseudokod fast riktig\bin\Debug\net6.0\Pseudokod fast riktig.pdb
+C:\Fungaea\Pseudokod fast riktig\obj\Debug\net6.0\Pseudokod fast riktig.csproj.AssemblyReference.cache
+C:\Fungaea\Pseudokod fast riktig\obj\Debug\net6.0\Pseudokod fast riktig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fungaea\Pseudokod fast riktig\obj\Debug\net6.0\Pseudokod fast riktig.AssemblyInfoInputs.cache
+C:\Fungaea\Pseudokod fast riktig\obj\Debug\net6.0\Pseudokod fast riktig.AssemblyInfo.cs
+C:\Fungaea\Pseudokod fast riktig\obj\Debug\net6.0\Pseudokod fast riktig.csproj.CoreCompileInputs.cache
+C:\Fungaea\Pseudokod fast riktig\obj\Debug\net6.0\Pseudokod fast riktig.dll
+C:\Fungaea\Pseudokod fast riktig\obj\Debug\net6.0\refint\Pseudokod fast riktig.dll
+C:\Fungaea\Pseudokod fast riktig\obj\Debug\net6.0\Pseudokod fast riktig.pdb
+C:\Fungaea\Pseudokod fast riktig\obj\Debug\net6.0\Pseudokod fast riktig.genruntimeconfig.cache
+C:\Fungaea\Pseudokod fast riktig\obj\Debug\net6.0\ref\Pseudokod fast riktig.dll

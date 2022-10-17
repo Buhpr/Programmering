@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\array2\obj\Debug\net6.0\array2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\array2\obj\Debug\net6.0\array2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\array2\obj\Debug\net6.0\array2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\array2\obj\Debug\net6.0\array2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\array2\obj\Debug\net6.0\array2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\array2\bin\Debug\net6.0\array2.exe
+C:\Users\Admin\Desktop\array2\bin\Debug\net6.0\array2.deps.json
+C:\Users\Admin\Desktop\array2\bin\Debug\net6.0\array2.runtimeconfig.json
+C:\Users\Admin\Desktop\array2\bin\Debug\net6.0\array2.dll
+C:\Users\Admin\Desktop\array2\bin\Debug\net6.0\array2.pdb
+C:\Users\Admin\Desktop\array2\obj\Debug\net6.0\array2.dll
+C:\Users\Admin\Desktop\array2\obj\Debug\net6.0\refint\array2.dll
+C:\Users\Admin\Desktop\array2\obj\Debug\net6.0\array2.pdb
+C:\Users\Admin\Desktop\array2\obj\Debug\net6.0\array2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\array2\obj\Debug\net6.0\ref\array2.dll

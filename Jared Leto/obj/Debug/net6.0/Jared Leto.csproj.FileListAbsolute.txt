@@ -1,0 +1,15 @@
+C:\Fungaea\Jared Leto\bin\Debug\net6.0\Jared Leto.exe
+C:\Fungaea\Jared Leto\bin\Debug\net6.0\Jared Leto.deps.json
+C:\Fungaea\Jared Leto\bin\Debug\net6.0\Jared Leto.runtimeconfig.json
+C:\Fungaea\Jared Leto\bin\Debug\net6.0\Jared Leto.dll
+C:\Fungaea\Jared Leto\bin\Debug\net6.0\Jared Leto.pdb
+C:\Fungaea\Jared Leto\obj\Debug\net6.0\Jared Leto.csproj.AssemblyReference.cache
+C:\Fungaea\Jared Leto\obj\Debug\net6.0\Jared Leto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fungaea\Jared Leto\obj\Debug\net6.0\Jared Leto.AssemblyInfoInputs.cache
+C:\Fungaea\Jared Leto\obj\Debug\net6.0\Jared Leto.AssemblyInfo.cs
+C:\Fungaea\Jared Leto\obj\Debug\net6.0\Jared Leto.csproj.CoreCompileInputs.cache
+C:\Fungaea\Jared Leto\obj\Debug\net6.0\Jared Leto.dll
+C:\Fungaea\Jared Leto\obj\Debug\net6.0\refint\Jared Leto.dll
+C:\Fungaea\Jared Leto\obj\Debug\net6.0\Jared Leto.pdb
+C:\Fungaea\Jared Leto\obj\Debug\net6.0\Jared Leto.genruntimeconfig.cache
+C:\Fungaea\Jared Leto\obj\Debug\net6.0\ref\Jared Leto.dll

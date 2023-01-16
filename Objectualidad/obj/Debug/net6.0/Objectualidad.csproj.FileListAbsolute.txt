@@ -1,0 +1,15 @@
+C:\Fungaea\Objectualidad\bin\Debug\net6.0\Objectualidad.exe
+C:\Fungaea\Objectualidad\bin\Debug\net6.0\Objectualidad.deps.json
+C:\Fungaea\Objectualidad\bin\Debug\net6.0\Objectualidad.runtimeconfig.json
+C:\Fungaea\Objectualidad\bin\Debug\net6.0\Objectualidad.dll
+C:\Fungaea\Objectualidad\bin\Debug\net6.0\Objectualidad.pdb
+C:\Fungaea\Objectualidad\obj\Debug\net6.0\Objectualidad.csproj.AssemblyReference.cache
+C:\Fungaea\Objectualidad\obj\Debug\net6.0\Objectualidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fungaea\Objectualidad\obj\Debug\net6.0\Objectualidad.AssemblyInfoInputs.cache
+C:\Fungaea\Objectualidad\obj\Debug\net6.0\Objectualidad.AssemblyInfo.cs
+C:\Fungaea\Objectualidad\obj\Debug\net6.0\Objectualidad.csproj.CoreCompileInputs.cache
+C:\Fungaea\Objectualidad\obj\Debug\net6.0\Objectualidad.dll
+C:\Fungaea\Objectualidad\obj\Debug\net6.0\refint\Objectualidad.dll
+C:\Fungaea\Objectualidad\obj\Debug\net6.0\Objectualidad.pdb
+C:\Fungaea\Objectualidad\obj\Debug\net6.0\Objectualidad.genruntimeconfig.cache
+C:\Fungaea\Objectualidad\obj\Debug\net6.0\ref\Objectualidad.dll
